@@ -1,9 +1,12 @@
 # Dhiraj_Profile
 
-### Hi there,
-*Want to know me about?
-So, let's get started.
-I am a diligent, data-driven, and competent Data Analytics Enthusiast with apost graduation program in data science from Imarticus
+## Hi there,
+
+*Want to know me about?*
+
+*So, let's get started.*
+
+*I am a diligent, data-driven, and competent Data Analytics Enthusiast with apost graduation program in data science from Imarticus
 Learning and post graduation in Mathematics from dept. of Mathematics, Savitribai Phule Pune University. Seeking challenging
 assignments in data science and machine learning domain in a progressive environment that uses my technical and analytical skills and
 provides ample opportunities in the world of emerging technology.*
