@@ -2,7 +2,7 @@
 
 ## Hi there,
 
-*Want to know me about?*
+*Want to know about me?*
 
 *So, let's get started.*
 
